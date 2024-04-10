@@ -8,7 +8,7 @@ from sentence_transformers import SentenceTransformer, util
 import pickle
 
 load_dotenv()
-
+# test
 model = SentenceTransformer('sentence-transformers/all-MiniLM-L6-v2')
 
 TOKEN = os.getenv("DISCORD_TOKEN")
