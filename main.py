@@ -164,6 +164,7 @@ async def on_message(message):
                         leaderboard[message.author.mention][1] = 0
                     else:
                         leaderboard[message.author.mention] = [0, 0]
+            
         overall_accuracy = (total_accuracy / rounds) * 100
         await message.channel.send(f"You just completed {rounds} rounds with an overall accuracy of {overall_accuracy}%")
         # Dumps leaderboard

@@ -1,2 +1,3 @@
 # add when you have time
 Question: What is the genetic similarity between SARS-CoV-2 and BANAL-52 bat coronavirus? --- Reason for flag:  
+Question: How many clades does Nextstrain divide the variants into, and what are they? --- Reason for flag: actually no i didnt get them correct 
