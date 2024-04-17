@@ -22,16 +22,15 @@ tree = app_commands.CommandTree(client)
 # Ex: {question1: answer1, ...}
 with open("questions.json", encoding="utf8") as f:
     questions = json.load(f)
-
+with open("images_list.json", encoding="utf8") as f:
+    images_list = json.load(f)
 # add images
-agent_images = {
-    "/Users/brycennelson/Desktop/images/agents/Rickettsia_rickettsii.jpg":"Rickettsia rickettsii"
-}
+
 parts_of_things = {
-    "/Users/brycennelson/Desktop/images/parts/cart.webp":"cat"
+    "images/parts/cart.webp":"cat"
 }
 other_things = {
-    "/Users/brycennelson/Desktop/images/other/benzene.webp":"benzene"
+    "images/other/benzene.webp":"benzene"
 }
 
 def compare(text1, text2):
@@ -80,8 +79,8 @@ async def on_message(message):
         accuracy=0
         for i in range(rounds):
             if choice_for_imageid == "agents":
-                imageQuestion = random.choice(list(agent_images.keys()))
-                imageAnswer = agent_images[imageQuestion]
+                imageQuestion = random.choice(list(images_list["agents"].keys()))
+                imageAnswer = images_list["agents"][imageQuestion]
             elif choice_for_imageid == "parts of things":
                 imageQuestion = random.choice(list(parts_of_things.keys()))
                 imageAnswer = parts_of_things[imageQuestion]
