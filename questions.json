@@ -669,6 +669,73 @@
         "What factors increase the risk of reactivation?": "Factors that increase the risk of HBV reactivation include baseline ALT levels of 200 UL/L or higher in males, chemotherapy, and the use of immunosuppressive drugs.",
         "Who is at the greatest risk of HBV reactivation?": "Individuals with detectable HBsAg in the blood are at the greatest risk of HBV reactivation.",
         "Are individuals with antibodies to the surface antigen immune to reactivation?": "Presence of antibodies to the surface antigen is considered a marker of immunity but does not preclude reactivation."
+    },
+    "t4" : {
+        "What type of bacteria does T4 Phage infect?": "T4 Phage infects E. coli bacteria.",
+        "What is the genetic composition of T4 Phage?": "T4 Phage is a dsDNA virus belonging to the subfamily Tevenvirinae within the family Myoviridae.",
+        "Which type of life cycle can T4 Phage undergo?": "T4 Phage can only undergo the lytic cycle and not the lysogenic cycle.",
+        "What was T4 Phage formerly named, and what other phages did it encompass?": "T4 Phage was formerly named T-even bacteriophage, which also encompassed Enterobacteria phage T2, T4, and T6.",
+        "What are T-even phages considered in research?": "T-even phages are considered model organisms.",
+        "What are the requirements for model organisms, and how do T-even phages compare?": "Model organisms are required to be simple with as few as 5 genes, yet T-even phages are among the largest and highest complexity viruses, with a genome made up of around 300 genes.",
+        "What is an unusual base found in T-even phages, and what does it replace?": "T-even phages have the unusual base hydroxymethylcytosine in place of cytosine.",
+        "What is the length of the T4 phage genome, and how many proteins does it encode?": "The T4 phage genome is 160 kilobase pairs long and encodes 269 proteins.",
+        "Describe the structure of the T4 phage genome during replication.": "During replication, the T4 phage genome forms long multi-genome length concatemers via rolling circle replication. These concatemers are then cut at unspecific positions of the same length when packaged, resulting in several genomes that are circular permutations of the original.",
+        "What unique feature does the T4 phage genome possess in terms of intron sequences?": "The T4 phage genome bears eukaryote-like intron sequences.",
+        "What sequence dominates in T4 early genes for translation initiation?": "The SD sequence GAGG dominates in T4 early genes.",
+        "What is the role of the sequence GGAG in T4 phage translation?": "The sequence GGAG is a target for T4 endonuclease RegB, which initiates early mRNA degradation.",
+        "What is the role of the tail in the T4 phage structure?": "The tail is hollow to allow the passage of nucleic acid into the cell after attachment.",
+        "What is the significance of tail fibers in T4 phage?": "Tail fibers are crucial for recognizing host cell surface receptors to determine if a bacterium is within the host range.",
+        "What is the composition of the baseplate in T4 phage?": "The baseplate consists of 127 PP chains of 13 different proteins, including gene products 5, 5.4, 6, 7, 8, 9, 10, 11, 12, 25, 27, 48, and 53.",
+        "What proteins are involved in the formation of the tail tube in T4 phage?": "The tail tube is formed by gp54 and the main tube protein gp19.",
+        "What is the role of the tape measure protein gp29 in T4 phage?": "The tape measure protein gp29 is found in the baseplate-tail tube complexes.",
+        "What is the significance of maintaining a balance of proteins during T4 phage assembly?": "Maintaining a balance of proteins is important for normal morphogenesis.",
+        "What are the categories of proteins encoded by phage genes that determine virion structure in T4 phage?": "The proteins include major structural components, minor structural components, and nonstructural proteins that catalyze steps in morphogenesis.",
+        "How is T4 morphogenesis divided in terms of pathways?": "T4 morphogenesis is divided into three pathways: head, tail, and long tail fibers.",
+        "How is the infection process of T4 phage initiated?": "Initiated infection by binding OmpC porin and LPS on surface of E. coli through its LTFs.",
+        "What happens after the recognition signal is sent through the long tail fibers (LTFs) to the baseplate in the T4 phage infection process?": "After the recognition signal is sent through the LTFs to the baseplate, the short tail fibers (STFs) are unraveled and bind irreversibly to the E. coli surface.",
+        "What occurs when the baseplate changes conformation and the tail sheath contracts during T4 phage infection?": "When the baseplate changes conformation and the tail sheath contracts, GP5 at the end of the tail tube punctures the outer membrane of E. coli.",
+        "What is the role of GP5 in the T4 phage infection process?": "GP5, located at the end of the tail tube, punctures the outer membrane of E. coli after the baseplate changes conformation and the tail sheath contracts. The lysozyme domain of GP5 is then activated and degrades the periplasmic peptidoglycan (PG), allowing the DNA from the head to travel through the tail tube and enter the cell.",
+        "Who provided evidence that phage DNA enters the bacterial cell upon infection and is the genetic material of the phage?": "Hershey and Chase provided evidence that phage DNA enters the bacterial cell upon infection and is the genetic material of the phage. Their work suggested that DNA is the genetic material of different organisms.",
+        "What is the approximate duration of the lytic cycle of T4 phage at 37°C?": "The lytic cycle of T4 phage takes approximately 30 minutes at 37°C.",
+        "How do virulent phages like T4 multiply in their host upon entry?": "Virulent phages multiply in their host immediately after entry. Once the number of progeny phages reaches a threshold, they cause the host to lyse, resulting in host lysis.",
+        "What are the essential steps that T4 phage must go through during the lytic cycle?": "T4 phage must go through adsorption and penetration (immediately), arrest of host gene expression (immediately), enzyme synthesis (after 5 minutes), DNA replication (after 10 minutes), and formation of new virions (after 12 minutes) during the lytic cycle.",
+        "What is the burst size of T4 phage, approximately?": "T4 phage has a burst size of approximately 100-150 virions per infected host.",
+        "What techniques did Benzer develop to study the fine structure of genes using T4 mutants defective in rIIA and rIIB?": "Benzer developed a system to study the fine structure of genes using T4 mutants defective in rIIA and rIIB. The techniques employed were complementation tests and crosses to detect recombination between deletion mutations.",
+        "What are the various receptors on the surface of the host that T-even phages can bind to during adsorption?": "T-even phages can bind to receptors on the surface of the host, which vary depending on the host. These receptors include teichoic acid, cell wall proteins, LPS, flagella, and pili.",
+        "Describe the two processes involved in adsorption of T-even phages to the host.": "Adsorption of T-even phages to the host occurs in two processes: reversible and irreversible. Reversible adsorption involves the binding of tail fibers to the appropriate receptor, while irreversible adsorption is mediated by one or more components of the base plate.",
+        "What is the role of the phage tail structure in the adsorption process?": "The phage tail structure is involved in the adsorption process when tail fibers bind to the appropriate receptor on the host cell.",
+        "When does penetration of genetic material into the host cell occur, and what are the mechanisms involved?": "Penetration of genetic material into the host cell occurs after the irreversible adsorption phase. The mechanisms for penetration can vary depending on the phage and may involve electrochemical membrane potential, ATP molecules, enzymatic splitting of peptidoglycan (PG), or a combination of these mechanisms.",
+        "How does the penetration mechanism differ in T2 (T4-like) phages compared to some other phages?": "Studies on T2 (T4-like) phages have shown that the phage's tail does not penetrate inside the cell wall. Instead, penetration involves the electrochemical membrane potential on the inner membrane.",,
+        "How is the T4 genome synthesized within the host cell, and what replication mechanism is involved?": "The T4 genome is synthesized within the host cell via rolling circle replication.",
+        "How is the rate of T4 DNA elongation measured, and what are the observed rates during exponential phase at 37°C?": "The rate of T4 DNA elongation is measured as the rate of T4 DNA elongation in a virus-infected E. coli cell. During the exponential phase at 37°C, the rate was observed to be 749 nucleotides per second (nt/s).",
+        "What is the mutation rate per base pair per replication for T4 DNA replication?": "The mutation rate per base pair per replication for T4 DNA replication is 1.7 * 10^-8, indicating a very accurate copying mechanism.",
+        "Describe the process of T4 head assembly and how DNA enters the prohead.": "The T4 head is assembled empty around a scaffolding protein and is later degraded. DNA enters the prohead through a tiny pore, which is achieved by a hexamer of gp17 interacting with DNA first, serving as a motor and nuclease.",
+        "What is the rate at which the T4 packaging motor can load DNA into viral capsids, and how would you describe its power?": "The T4 packaging motor can load DNA into viral capsids at a rate of up to 2000 base pairs per second (bp/s), and it is extremely powerful.",
+        "What determines the final step of the T4 replication cycle, and what happens during this step?": "The final step of the T4 replication cycle is determined by the release of virions from the host cell. This occurs after the breakage of the plasma membrane.",
+        "How do nonenveloped viruses like T4 typically release from the host cell, and what characterizes their mode of release?": "Nonenveloped viruses like T4 typically lyse the host cell. Their mode of release is characterized by viral proteins attacking peptidoglycan (PG) and the cell membrane. Lysis occurs when capsids release lysozyme that breaks down the cell wall.",
+        "What happens after the release of phages from the host cell, and how does the cycle continue?": "After the release of phages from the host cell, they infect other cells, and the replication cycle continues.",
+        "What is Multiplicity Reactivation (MR)?": "MR is the process by which 2 or more genomes, each containing inactivating genome damage, can interact with an infected cell to form a viable virus genome.",
+        "Who discovered Multiplicity Reactivation, and when?": "Salvador Luria discovered MR in 1946 while studying UV irradiated T4 phages.",
+        "What is the significance of Multiplicity Reactivation discovery?": "The discovery of MR preceded the confirmation of DNA as the genetic material in 1952 (by Hershey and Chase) and initiated the study of repair of radiation damage within the early phage group.",
+        "What did the discovery of Multiplicity Reactivation lead to?": "It led to the understanding that the repair of damaged virus by mutual help was common throughout every single type of cell, not just for phages or bacteria. Additionally, it highlighted the critical role of DNA repair processes in protecting against aging, cancer, and infertility.",
+        "How is Multiplicity Reactivation observed?": "MR is represented as survival curves where the survival of plaque forming ability of multiple infected cells (multicomplexes) is plotted against the dose of the genome damaging agent. Monocomplexes (single cells) are also plotted against the dose of the genome damaging agent.",
+        "What are some examples of agents exhibiting Multiplicity Reactivation?": "Agents such as UV irradiation, X-rays, and ethyl methane sulfonate show shoulders in survival curves of multicomplexes, indicating Multiplicity Reactivation.",
+        "What does the presence of a shoulder in survival curves indicate?": "The presence of a shoulder in survival curves indicates the utilization of two recombinational processes.",
+        "How many recombinational processes are involved when a shoulder is present in survival curves?": "When a shoulder is present in survival curves, it indicates the utilization of two recombinational processes.",
+        "What is indicated by the efficiency of repair?": "The efficiency of repair is indicated by the fact that a dose of mitomycin C allowing survival of only 1/1000 monocomplexes permits the survival of 70% of multicomplexes.",
+        "Which agents produce nonshouldered multicomplex survival curves?": "Nonshouldered multicomplex survival curves are observed with damaging agents such as P32 decay, psoralen+UV irradiation (PUVA), N-methyl-N’-nitro-N-nitrosoguanidine (MNNG), methyl methane sulfonate (MMS), and nitrous acid.",
+        "What genes are necessary for multiplicity reactivation in T4?": "Several genes necessary for multiplicity reactivation in T4 are proved to be orthologs of genes necessary for recombination in both prokaryotes and eukaryotes.",
+        "What role does the T4 gene uvsX play?": "The T4 gene uvsX specifies a protein with 3D structural homology to RecA in E. coli, RAD51 in eukaryotes, and RadA in archaea. It is involved in efficient and accurate recombinational repair of DNA damage during multiplicity reactivation, potentially analogous to recombinational repair during meiosis in eukaryotes."
+
+
+
+
+
+
+
+}
+}
+
     }
 }
 
